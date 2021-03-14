@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="022.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="021图像卷积操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="022图像均值与高斯滤波.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="023中值滤波.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="025图像去噪声.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="024图像噪声.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="026高斯双边模糊.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="027均值迁移滤波.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="028图像积分图算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="029快速的图像边缘滤波算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="030OpenCV自定义的滤波器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="031图像梯度-Sobel算子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="032图像梯度-更多梯度算子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="033图像梯度-拉普拉斯算子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="034图像锐化.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="035USM锐化增强算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="036Canny边缘检测器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="037图像金字塔.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="038拉普拉斯金字塔.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="039图像模板匹配.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="040二值化图像介绍.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+</Project>

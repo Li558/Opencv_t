@@ -1,0 +1,18 @@
+﻿  112KMeans图像分割—背景替换.cpp
+c:\users\67532\documents\c++file\vs文件\test88\opencv_task\opencv_task\opencv_task101-120\112kmeans图像分割—背景替换.cpp(53): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\67532\documents\c++file\vs文件\test88\opencv_task\opencv_task\opencv_task101-120\112kmeans图像分割—背景替换.cpp(55): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\67532\documents\c++file\vs文件\test88\opencv_task\opencv_task\opencv_task101-120\112kmeans图像分割—背景替换.cpp(56): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\67532\documents\c++file\vs文件\test88\opencv_task\opencv_task\opencv_task101-120\112kmeans图像分割—背景替换.cpp(57): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+  Opencv_task101-120.vcxproj -> C:\Users\67532\Documents\C++file\VS文件\test88\Opencv_task\Opencv_task\x64\Debug\Opencv_task101-120.exe

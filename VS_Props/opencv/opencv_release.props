@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros">
+    <OPENCV_HOME>D:\OPENCV\opencv\build</OPENCV_HOME>
+  </PropertyGroup>
+  <PropertyGroup>
+    <IncludePath>$(OPENCV_HOME)\include;$(OPENCV_HOME)\include\opencv2;$(IncludePath)</IncludePath>
+    <LibraryPath>$(OPENCV_HOME)\x64\vc15\bin;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <Link>
+      <AdditionalDependencies>$(OPENCV_HOME)\x64\vc15\lib\opencv_world411.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <BuildMacro Include="OPENCV_HOME">
+      <Value>$(OPENCV_HOME)</Value>
+    </BuildMacro>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+﻿D:\VS2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(Opencv_task.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  018图像直方图均衡化.cpp
+  正在生成代码
+  250 of 254 functions (98.4%) were compiled, the rest were copied from previous compilation.
+    18 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Opencv_task.vcxproj -> C:\Users\67532\Documents\C++file\VS文件\test88\Opencv_task\Opencv_task\x64\Release\Opencv_task1-20.exe

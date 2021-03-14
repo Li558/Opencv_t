@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="041OpenCV中的基本阈值操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="042OTSU二值寻找算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="043TRIANGLE二值寻找算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="044自适应阈值算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="045图像二值化与去噪.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="046二值图像联通组件寻找.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="047二值图像连通组件状态统计.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="048二值图像分析—轮廓发现.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="049二值图像分析—轮廓外接矩形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="050二值图像分析 – 矩形面积与弧长.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="051二值图像分析—使用轮廓逼近.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="052二值图像分析—用几何矩计算轮廓中心与横纵比过滤.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="053二值图像分析—Hu矩实现轮廓匹配.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="054二值图像分析—对轮廓圆与椭圆拟合.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="055二值图像分析—凸包检测.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="056二值图像分析–直线拟合与极值点寻找.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="057二值图像分析—点多边形测试.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="058二值图像分析—寻找最大内接圆.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="059二值图像分析—霍夫直线检测.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="060二值图像分析—霍夫直线检测二.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

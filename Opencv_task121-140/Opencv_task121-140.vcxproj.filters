@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="121OpenCV DNN 获取导入模型各层信息.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="122OpenCV DNN 实现图像分类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="123OpenCV DNN 为模型运行设置目标设备与计算后台.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="124OpenCV DNN 基于SSD实现对象检测.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="125OpenCV DNN 基于SSD实现实时视频检测.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="126OpenCV DNN 基于残差网络的人脸检测.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="127OpenCV DNN 基于残差网络的视频人脸检测.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="128OpenCV DNN 直接调用tensorflow的导出模型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="129OpenCV DNN 调用openpose模型实现姿态评估.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="130OpenCV DNN 支持YOLO对象检测网络运行.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="131OpenCV DNN 支持YOLOv3-tiny版本实时对象检测.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="132OpenCV DNN单张与多张图像的推断.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="133OpenCV DNN 图像颜色化模型使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="134OpenCV DNN ENet实现图像分割.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="135OpenCV DNN 实时快速的图像风格迁移.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="136OpenCV DNN解析网络输出结果.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="137OpenCV DNN 实现性别与年龄预测.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="138OpenCV DNN 使用OpenVINO加速.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="139案例：识别0～9印刷体数字 —Part1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="140案例：识别0～9印刷体数字 —Part2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="案例分享-分水岭分割.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="案例分享-绿幕抠图.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

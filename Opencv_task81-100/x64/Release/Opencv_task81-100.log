@@ -1,0 +1,11 @@
+﻿  081角点检测—Harris角点检测.cpp
+c:\users\67532\documents\github\opencv_task\opencv_t\opencv_task81-100\081角点检测—harris角点检测.cpp(18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\67532\documents\github\opencv_task\opencv_t\opencv_task81-100\081角点检测—harris角点检测.cpp(19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\67532\documents\github\opencv_task\opencv_t\opencv_task81-100\081角点检测—harris角点检测.cpp(20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\67532\documents\github\opencv_task\opencv_t\opencv_task81-100\081角点检测—harris角点检测.cpp(21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  268 of 272 functions (98.5%) were compiled, the rest were copied from previous compilation.
+    24 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Opencv_task81-100.vcxproj -> C:\Users\67532\Documents\GitHub\Opencv_task\Opencv_t\x64\Release\Opencv_task81-100.exe

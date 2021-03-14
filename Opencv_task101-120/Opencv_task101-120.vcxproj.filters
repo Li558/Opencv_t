@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="101HOG特征描述子—多尺度检测.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="102HOG特征描述子—提取描述子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="103HOG特征描述子—使用描述子特征生成样本数据.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="104SVM线性分类器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="105HOG特征描述子—使用HOG进行对象检测.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="106AKAZE特征与描述子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="107Brisk特征提取与描述子匹配.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="108特征提取之关键点检测—GFTTDetector.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="109BLOB特征分析—simpleblobdetector使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="110KMeans 数据分类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="111KMeans图像分割.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="112KMeans图像分割—背景替换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="113KMeans图像分割—主色彩提取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="114KNN算法介绍.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="115KNN算法应用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="116决策树算法 介绍与使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="117图像均值漂移分割.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="118Grabcut图像分割.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="119Grabcut图像分割—背景替换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="120二维码检测与识别.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="112KMeans图像分割—背景替换1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

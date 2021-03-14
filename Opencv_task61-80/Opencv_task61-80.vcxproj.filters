@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="061二值图像分析 – 霍夫圆检测.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="062图像形态学—膨胀与腐蚀.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="063图像形态学—膨胀与腐蚀.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="064图像形态学—开操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="065图像形态学—闭操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="066图像形态学—开闭操作时候结构元素应用演示.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="067图像形态学—顶帽操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="068图像形态学—黑帽操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="069图像形态学—图像梯度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="070形态学应用—用基本梯度实现轮廓分析.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="071形态学操作—击中击不中.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="072二值图像分析—缺陷检测一.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="073二值图像分析—缺陷检测二.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="074二值图像分析—提取最大轮廓与编码关键点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="075图像去水印修复.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="076图像透视变换应用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="077视频读写与处理.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="078识别与跟踪视频中的特定颜色对象.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="079视频分析—背景前景提取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="080视频分析—背景消除与前景ROI提取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

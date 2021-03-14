@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="081角点检测—Harris角点检测.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="082角点检测—shi-tomas角点检测.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="083角点检测—亚像素级别角点检测.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="084视频分析—移动对象的KLT光流跟踪算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="085视频分析—KLT光流跟踪 02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="087视频分析—基于帧差法实现移动对象分析.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="086视频分析—稠密光流分析.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="088视频分析—基于均值迁移的对象移动分析.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="089视频分析—基于连续自适应均值迁移的对象移动分析.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="090视频分析—对象移动轨迹绘制.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="091对象检测—HAAR级联检测器使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="092对象检测—HAAR特征介绍.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="093对象检测—LBP特征介绍.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="094ORB FAST特征关键点检测.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="095BRIEF特征描述子 匹配.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="097基于描述子匹配的已知对象定位.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="096描述子匹配.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="098SIFT特征提取—关键点提取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="099SIFT特征提取—描述子生成.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="100HOG特征与行人检测.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
